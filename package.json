@@ -78,7 +78,7 @@
     "redux": "^3.x.x",
     "reselect": "^2.5.4",
     "swagger-client": "^3.8.25",
-    "swagger-ui": "^3.22.1",
+    "swagger-ui": "https://github.com/SmartBear/swagger-ui/archive/facelift_demo.tar.gz",
     "traverse": "^0.6.6",
     "whatwg-fetch": "^2.0.3",
     "yaml-js": "^0.1.4"
